@@ -26,3 +26,6 @@ It takes 8 values from user which are as follows:
 OUTPUT:
 
     1. (numpy array) new coordinates
+
+Example:
+<img src="https://github.com/aniketsharma00411/introduction-to-robotics-assignment-2/blob/main/example_output.png" alt="example_output.png">
